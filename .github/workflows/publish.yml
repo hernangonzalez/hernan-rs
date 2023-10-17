@@ -1,7 +1,7 @@
 name: Publish - GH Pages
 
 # On every push this script is executed
-on: push
+on: [push, workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
