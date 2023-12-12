@@ -18,7 +18,7 @@ highlight_code = false
 name = { first = "Hernan", last = "Gonzalez" }
 
 links = [
-   { icon = "fa-solid fa-envelope", url = "mailto:hernan.rs@proton.me" },
+   { icon = "fa-solid fa-envelope", url = "mailto:me@hernan.rs" },
    { icon = "fa-brands fa-github", url = "https://github.com/hernangonzalez" },
    { icon = "fa-brands fa-linkedin", url = "https://www.linkedin.com/in/gonzalezhernan" },
    { icon = "fa-solid fa-bookmark", url = "https://notes.hernan.rs" },
