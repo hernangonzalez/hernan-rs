@@ -1,0 +1,58 @@
+baseURL = "https://hernan.rs"
+title = "home"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 6
+enableEmoji = true
+
+[services]
+[services.googleAnalytics]
+ID = "G-8RR90LPNB7"
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Hernán G. Gonzalez"
+description = "House of a rustacean"
+keywords = "mobile,developer,solutions"
+info = ["Mobile Solution Architect & Delivery Manager"]
+avatarURL = "hgg.jpeg"
+#gravatar = "john.doe@example.com"
+dateFormat = "January 2, 2006"
+since = 2023
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/hernangonzalez/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/gonzalezhernan/"
+
+[[params.social]]
+name = "Contact"
+icon = "fa fa-envelope fa-2x"
+weight = 3
+url = "mailto:me@hernan.rs"
+
+[[params.social]]
+name = "Contact"
+icon = "fa fa-bookmark fa-2x"
+weight = 4
+url = "https://notes.hernan.rs"
