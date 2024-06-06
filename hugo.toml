@@ -19,7 +19,6 @@ description = "House of a rustacean"
 keywords = "mobile,developer,solutions"
 info = ["Mobile Solution Architect & Delivery Manager"]
 avatarURL = "hgg.jpeg"
-#gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2023
 rtl = false
@@ -56,3 +55,9 @@ name = "Contact"
 icon = "fa fa-bookmark fa-2x"
 weight = 4
 url = "https://notes.hernan.rs"
+
+[[params.social]]
+name = "Resume"
+icon = "fa fa-file-text fa-2x"
+weight = 5
+url = "/hernan_gonzalez_in.pdf"
